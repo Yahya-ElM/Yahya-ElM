@@ -1,7 +1,8 @@
 # Yahya El Moutaouakkil
 
 Master's student in Intelligence and Security of Connected Objects (ISOC) at FS Moulay Ismail, Meknès (graduating 2027).
-I focus on IoT and OT security and embedded systems.
+
+- Looking for: a PFE (end-of-studies internship) in IoT security, ideally in Casablanca or Rabat
 
 ## What I work with
 - Embedded: ESP32, ESP-IDF, GPIO / interrupts / sensors
